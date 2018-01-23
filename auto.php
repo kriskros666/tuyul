@@ -1,5 +1,5 @@
 #Script Recoder By X-Mr.R4h1M
-
+#PERINGATAN EDIT SEDIKIT BAKAL ADA YANG ERROR :)
 
 <?php
 date_default_timezone_set("Asia/Bangkok");
