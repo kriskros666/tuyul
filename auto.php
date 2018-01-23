@@ -1,3 +1,6 @@
+#Script Recoder By X-Mr.R4h1M
+
+
 <?php
 date_default_timezone_set("Asia/Bangkok");
 error_reporting(0);
