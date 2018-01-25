@@ -1,4 +1,4 @@
-#Script Recoder By X-Mr.R4h1M
+#Script Recoder By sirksork
 #PERINGATAN EDIT SEDIKIT BAKAL ADA YANG ERROR :)
 
 <?php
